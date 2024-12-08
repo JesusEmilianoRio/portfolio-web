@@ -1,0 +1,203 @@
+
+{
+    "basics": {
+      "name": "Emiliano Núñez",
+      "label": "Web Developer con 1 año de experiencia.",
+      "image": "/img/picProfile.jpg",
+      "email": "jesus.emiliano123@hotmail.com",
+      "phone": "+52 6564750525",
+      "summary": "1 año de experiencia como Desarrollador Web. Actualmente soy estudiante de Ingeniería de Software. Vivo en Ciudad Juárez, Chihuahua.",
+      "location": {
+        "address": "",
+        "postalCode": "32575",
+        "city": "Ciudad Juarez",
+        "countryCode": "MX",
+        "region": "México"
+      },
+      "profiles": [
+        {
+          "network": "LinkedIn",
+          "username": "Emiliano Núñez",
+          "url": "https://www.linkedin.com/in/jesusemilianorio/"
+        },
+        {
+          "network": "GitHub",
+          "username": "JesusEmilianoRio",
+          "url": "https://github.com/JesusEmilianoRio"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "SubCore",
+        "position": "IT Support",
+        "startDate": "2021-01-01",
+        "endDate": "2022",
+        "summary": "Me enfoqué en brindar soporte técnico a usuarios, resolviendo incidencias relacionadas con hardware, software y redes. Realicé la instalación, configuración y mantenimiento de equipos, garantizando la operatividad de los sistemas y gestionando actualizaciones. Mi labor contribuyó directamente a la continuidad operativa y a la eficiencia tecnológica de la organización."
+      }
+    ],
+    "education": [{
+      "institution": "Universidad Autónoma de Ciudad Juárez",
+      "url": "https://www.uacj.mx/",
+      "area": "Ingeniero de Software",
+      "studyType": "Estudiante",
+      "startDate": "2021-05-08",
+      "endDate": null,
+      "score": "8.55"
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [
+      {
+        "name": "HTML",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "CSS",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend"
+        ]
+      },
+      {
+        "name": "JavaScript",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Fullstack"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "level": "Básico",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "Backend"
+        ]
+      },
+      {
+        "name": "MySQL",
+        "level": "Avanzado",
+        "keywords": [
+          "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        ]
+      },
+      {
+        "name": "Git",
+        "level": "Avanzado",
+        "keywords": [
+          "Control de Versiones", "Colaboración", "Código Fuente"
+        ]
+      },
+      {
+        "name": "React",
+        "level": "Intermedio",
+        "keywords": [
+          "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "Spanish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Advanced"
+      }
+    ],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [
+      {
+        "name": "mars.codes",
+        "isActive": true,
+        "description": "Historia interactiva con retos de programación para viajar a Marte",
+        "highlights": [
+          "Elige tu propia aventura",
+          "En desarrollo"
+        ],
+        "url": "https://mars.codes"
+      },
+      {
+        "name": "AdventJS",
+        "isActive": true,
+        "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+        "highlights": [
+          "+1 millón de visitas",
+          "Multidioma",
+          "JavaScript & TypeScript"
+        ],
+        "url": "https://adventjs.dev"
+      },
+      {
+        "name": "Codember",
+        "isActive": true,
+        "description": "Juego interactivo de programación con retos y secretos",
+        "highlights": [
+          "+2000 usuarios activos",
+          "Retos para cualquier lenguaje"
+        ],
+        "url": "https://codember.dev"
+      },
+      {
+        "name": "codi.link",
+        "isActive": true,
+        "description": "Playground de código HTML, CSS y JavaScript para compartir",
+        "highlights": [
+          "100k visitas al mes",
+          "Desarrollado por la comunidad"
+        ],
+        "url": "https://codi.link",
+        "github": "https://github.com/midudev/codi.link"
+      },
+      {
+        "name": "Pruebas Técnicas",
+        "isActive": true,
+        "description": "Lista de pruebas técnicas de empresas para practicar programación",
+        "highlights": [
+          "100% gratuito",
+          "+500 soluciones de la comunidad"
+        ],
+        "url": "https://pruebastecnicas.com",
+        "github": "https://github.com/midudev/pruebas-tecnicas"
+      },
+      {
+        "name": "miduConf",
+        "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
+        "highlights": [
+          "+15k tickets repartidos",
+          "+50k espectadores en directo"
+        ],
+        "url": "https://miduconf.com"
+      }
+    ]
+  }
