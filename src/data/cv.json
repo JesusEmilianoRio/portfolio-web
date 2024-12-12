@@ -2,11 +2,11 @@
 {
     "basics": {
       "name": "Emiliano Núñez",
-      "label": "Web Developer con 1 año de experiencia.",
+      "label": "Currently pursuing a Software Engineering degree.",
       "image": "/img/picProfile.jpg",
       "email": "jesus.emiliano123@hotmail.com",
       "phone": "+52 6564750525",
-      "summary": "1 año de experiencia como Desarrollador Web. Actualmente soy estudiante de Ingeniería de Software. Vivo en Ciudad Juárez, Chihuahua.",
+      "summary": "I am looking for an opportunity to apply my web development skills and contribute to the success of a team. I am a proactive and self-taught individual, always willing to take on new challenges.",
       "location": {
         "address": "",
         "postalCode": "32575",
@@ -29,40 +29,21 @@
     },
     "work": [
       {
-        "name": "SubCore",
+        "name": "Electrolux",
         "position": "IT Support",
-        "startDate": "2021-01-01",
-        "endDate": "2022",
-        "summary": "Me enfoqué en brindar soporte técnico a usuarios, resolviendo incidencias relacionadas con hardware, software y redes. Realicé la instalación, configuración y mantenimiento de equipos, garantizando la operatividad de los sistemas y gestionando actualizaciones. Mi labor contribuyó directamente a la continuidad operativa y a la eficiencia tecnológica de la organización."
+        "startDate": "2024-08-23",
+        "endDate": null,
+        "summary": "I focused on providing technical support to users, resolving incidents related to hardware, software, and networks. I performed the installation, configuration, and maintenance of equipment, ensuring the operability of systems and managing updates. My work directly contributed to the organization's operational continuity and technological efficiency."
       }
     ],
     "education": [{
       "institution": "Universidad Autónoma de Ciudad Juárez",
       "url": "https://www.uacj.mx/",
-      "area": "Ingeniero de Software",
-      "studyType": "Estudiante",
+      "area": "Software Engineering",
+      "studyType": "Student",
       "startDate": "2021-05-08",
       "endDate": null,
       "score": "8.55"
-    }],
-    "awards": [{
-      "title": "Award",
-      "date": "2014-11-01",
-      "awarder": "Company",
-      "summary": "There is no spoon."
-    }],
-    "certificates": [{
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }],
-    "publications": [{
-      "name": "Publication",
-      "publisher": "Company",
-      "releaseDate": "2014-10-01",
-      "url": "https://publication.com",
-      "summary": "Description…"
     }],
     "skills": [
       {
